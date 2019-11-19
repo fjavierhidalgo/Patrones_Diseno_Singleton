@@ -1,4 +1,4 @@
-# Patrones_Diseno_Singleton
+# Patrones Diseño: Singleton
 Ejercicio patrones diseño - Singleton
 
 Problema y Contexto:
